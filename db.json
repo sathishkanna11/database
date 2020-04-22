@@ -41,7 +41,7 @@
       "population": 130759
     }
   ],
-  tempData:[
+  "tempData":[
    {
       "Mean":0.9363,
       "Source":"GCAG",
